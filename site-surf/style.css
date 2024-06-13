@@ -1,0 +1,22 @@
+/* RESET DES STYLES PAR DEFAUTS DES NAVIGATEURS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* HEDADER C'EST LA PREMIERE IMAGE QUE VOUS Voyer  */
+.header {
+  /* INSERSION DE L'IMAGE */
+  background-image: url("jeremy-bishop-pikyGuAmwpM-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 20%;
+  height: 400px;
+  opacity: 0.7;
+  color: #fff;
+}
+/* ICONES  The surfing Project en 3 points */
+.icone {
+  height: 70px;
+  width: 70px;
+}
